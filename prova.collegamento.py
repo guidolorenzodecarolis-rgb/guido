@@ -1,0 +1,2 @@
+#prova.collegamento
+print("prova")
