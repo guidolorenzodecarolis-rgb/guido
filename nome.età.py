@@ -6,3 +6,4 @@ if(età % 3 == 0) and (età % 2 != 0):
     print(n1)
 else:
     n2 = nome[2:-2]
+    print(n2)
