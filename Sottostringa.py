@@ -17,4 +17,4 @@ while conta_lettere < len(s1) and uguaglianza == True and len(s2) < len(s1):
 if(conta != 0):
     print("la sottostringa è contenuta nella stringa")
 else:
-    print("la sottostringa non è contenuta nella stringa")
+    print("la sottostringa non è contenuta nella stringa") 
